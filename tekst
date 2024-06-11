@@ -1,0 +1,4 @@
+echo "To jest przykładowy plik" > example.txt
+git add example.txt
+git commit -m "Dodanie przykładowego pliku txt"
+git push
