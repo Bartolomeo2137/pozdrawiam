@@ -1,2 +1,3 @@
-cd /path/to/your/repo
-touch .gitignore
+git add .gitignore
+git commit -m "Dodanie pliku .gitignore"
+git push
